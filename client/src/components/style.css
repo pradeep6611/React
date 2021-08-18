@@ -1,0 +1,169 @@
+.divStyle {
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Mobile first design, Portrait displays under 48em/768px */
+.formStyle {
+  display: block;
+  width: 85%;
+  margin: 0 auto;
+}
+
+/* Chrome iPad present/Portrait 48em = 768px */
+@media (min-width: 48em) {
+  .formStyle {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* Chrome iPad Pro Preset/Portrait 64em = 1024px */
+@media (min-width: 64em) {
+  .formStyle {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+/* HD displays/Landscape 75em = 1200px */
+@media (min-width: 75em) {
+  .formStyle {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
+/* Full HD displays/Landscape 120em = 1920px */
+@media (min-width: 120em) {
+  .formStyle {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+.optionItems {
+  flex-direction: column;
+  list-style: none;
+  display: flex;
+  align-items: flex-start;
+}
+
+.optionItems:hover {
+  background-color: #eefbfe;
+}
+
+[type="radio"]:checked,
+[type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+
+[type="radio"]:checked + label,
+[type="radio"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 20px;
+    display: inline-block;
+}
+
+[type="radio"]:checked + label:before,
+[type="radio"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    background: #fff;
+    align-self: flex-start;
+}
+
+[type="radio"]:checked + label:after,
+[type="radio"]:not(:checked) + label:after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #000;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+[type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+
+[type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.wrapper {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 3px;
+}
+
+/* Animation */
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out 0.3s;
+}
+
+.fade-leave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 1;
+}
+
+.fade-leave.fade-leave-active {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade-appear {
+  opacity: 0;
+}
+
+.fade-appear.fade-appear-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.nextButton {
+  justify-content: flex-end;
+}
+
+.prevButton {
+  justify-content: flex-start;
+}

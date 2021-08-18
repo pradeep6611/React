@@ -1,0 +1,4088 @@
+{
+	"modules": [
+		{
+			"module_id": 1,
+			"module_name": "IHG",
+			"isDefault": true,
+			"teamID": "001",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "State True or False: IHG is the first one to bring the concept of online booking and reservations in hotel industries.",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "TRUE",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What is the carbon footprint target of IHG in 2018 – 2020?",
+					"q_options": [
+						{
+							"val": "6-7%  reduce in carbon footprint per occupied room"
+						},
+						{
+							"val": "Increase % of diverse  IHG Senior Leaders"
+						},
+						{
+							"val": "Launch two water stewardship projects per year"
+						},
+						{
+							"val": "Track and report employee engagement every month"
+						}
+					],
+					"q_answer": "Track and report employee engagement every month",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "How many languages does the global call center under IHG reservation system covers?",
+					"q_options": [
+						{
+							"val": "10"
+						},
+						{
+							"val": "12"
+						},
+						{
+							"val": "13"
+						},
+						{
+							"val": "15"
+						}
+					],
+					"q_answer": "13",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "How many hotels approximately comes under IHG group",
+					"q_options": [
+						{
+							"val": "5000-6000"
+						},
+						{
+							"val": "7000-8000"
+						},
+						{
+							"val": "2000-3000"
+						},
+						{
+							"val": "1000-2000"
+						}
+					],
+					"q_answer": "5000-6000",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 2,
+			"module_name": "Domain",
+			"isDefault": true,
+			"teamID": "002",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Which model is followed by regional hotel owners who may be prominent in their own regions; but lack the bandwidth for a global reach?",
+					"q_options": [
+						{
+							"val": "Referral Model"
+						},
+						{
+							"val": "Franchise Model"
+						},
+						{
+							"val": "Management Contract Model"
+						},
+						{
+							"val": "Chain Affiliation model"
+						}
+					],
+					"q_answer": "Chain Affiliation model",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "ADR stands for",
+					"q_options": [
+						{
+							"val": "Average daily report"
+						},
+						{
+							"val": "Actual daily rate"
+						},
+						{
+							"val": "Average daily rate"
+						},
+						{
+							"val": "Average daily revenue"
+						}
+					],
+					"q_answer": "Average daily rate",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which is both staff and line function?",
+					"q_options": [
+						{
+							"val": "Room Division"
+						},
+						{
+							"val": "Food and Beverage"
+						},
+						{
+							"val": "Accounting"
+						},
+						{
+							"val": "Personnel"
+						}
+					],
+					"q_answer": "Accounting",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "Which is usually convenient for the guest to checkout very early in the morning?",
+					"q_options": [
+						{
+							"val": "Late checkout"
+						},
+						{
+							"val": "Express Checkout"
+						},
+						{
+							"val": "Self Checkout"
+						},
+						{
+							"val": "Early checkout"
+						}
+					],
+					"q_answer": "Express Checkout",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Which refers to the short shelf life of the hospitality product?",
+					"q_options": [
+						{
+							"val": "Perishability"
+						},
+						{
+							"val": "Simultaneity"
+						},
+						{
+							"val": "Heterogeneity"
+						},
+						{
+							"val": "Intangibility"
+						}
+					],
+					"q_answer": "Perishability",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Marketing process is the straight-line, step-by-step process",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "FALSE",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Which of the following is not a component of hospitality sales management?",
+					"q_options": [
+						{
+							"val": "Sales Organization"
+						},
+						{
+							"val": "Recruitment"
+						},
+						{
+							"val": "Goal setting"
+						},
+						{
+							"val": "Marketing"
+						}
+					],
+					"q_answer": "Marketing",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Planning and Evaluation comprise of establishing room rates, forecasting room availability",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "TRUE",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "Which ensures the actual result of operations that matches the planned results?",
+					"q_options": [
+						{
+							"val": "Organizing"
+						},
+						{
+							"val": "Staffing"
+						},
+						{
+							"val": "Controlling"
+						},
+						{
+							"val": "Evaluating"
+						}
+					],
+					"q_answer": "Controlling",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Forecasting is a method to predict based on past figures, expectation, trends and experience",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "FALSE",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "A front office manager thoroughly estimates the results of department activities only weekly basis.",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "FALSE",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "In general hotel restaurant has how many storage areas?",
+					"q_options": [
+						{
+							"val": "3"
+						},
+						{
+							"val": "4"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "6"
+						}
+					],
+					"q_answer": "4",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "which is the first place where food products and materials are stored?",
+					"q_options": [
+						{
+							"val": "Freezer"
+						},
+						{
+							"val": "Receiving dock"
+						},
+						{
+							"val": "Dry food storage"
+						},
+						{
+							"val": "Meat cooler"
+						}
+					],
+					"q_answer": "Receiving dock",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "Which can be defined as those duties which are assigned to employees that bring them into regular contact with the guests.",
+					"q_options": [
+						{
+							"val": "Staff Functions"
+						},
+						{
+							"val": "Line Functions"
+						},
+						{
+							"val": "Organizational Design"
+						},
+						{
+							"val": "Lodging Functions"
+						}
+					],
+					"q_answer": "Line Functions",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "Which is the internationaltrade associationexclusively devoted to promoting and defending the interests of the hotel and restaurant industry worldwide?",
+					"q_options": [
+						{
+							"val": "IH&RA"
+						},
+						{
+							"val": "HRACC"
+						},
+						{
+							"val": "Both of the above"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "IH&RA",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "Who lives on the hotel property and is on-call any time of day or night?",
+					"q_options": [
+						{
+							"val": "General Manager"
+						},
+						{
+							"val": "Resident Manager"
+						},
+						{
+							"val": "Sales Manager"
+						},
+						{
+							"val": "Property Manager"
+						}
+					],
+					"q_answer": "Resident Manager",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "How many stages are involved in Guest lifecycle?",
+					"q_options": [
+						{
+							"val": "3"
+						},
+						{
+							"val": "4"
+						},
+						{
+							"val": "6"
+						},
+						{
+							"val": "7"
+						}
+					],
+					"q_answer": "4",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "Which is a hotel designed for motorists and usually has a parking area for motor vehicles?",
+					"q_options": [
+						{
+							"val": "Flotels"
+						},
+						{
+							"val": "Motels"
+						},
+						{
+							"val": "All of the above"
+						},
+						{
+							"val": "Inns"
+						}
+					],
+					"q_answer": "Motels",
+					"q_checked": null
+				},
+				{
+					"q_id": "19",
+					"q_name": "Which division provides major revenue in hotel industry?",
+					"q_options": [
+						{
+							"val": "Gift shop"
+						},
+						{
+							"val": "Laundry"
+						},
+						{
+							"val": "Rooms and Food and Beverages"
+						},
+						{
+							"val": "Recreation center"
+						}
+					],
+					"q_answer": "Rooms and Food and Beverages",
+					"q_checked": null
+				},
+				{
+					"q_id": "20",
+					"q_name": "Which helps to revise front office goals?",
+					"q_options": [
+						{
+							"val": "Coordinating"
+						},
+						{
+							"val": "Planning"
+						},
+						{
+							"val": "Leading"
+						},
+						{
+							"val": "Evaluating"
+						}
+					],
+					"q_answer": "Evaluating",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 3,
+			"module_name": "Process",
+			"isDefault": true,
+			"teamID": "003",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "KEDB is",
+					"q_options": [
+						{
+							"val": "repository that holds information about problems"
+						},
+						{
+							"val": "Repository of actions of an associate"
+						},
+						{
+							"val": "Repository used by development team"
+						},
+						{
+							"val": "Repository used by Support team"
+						}
+					],
+					"q_answer": "repository that holds information about problems",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "MPLS stands for",
+					"q_options": [
+						{
+							"val": "Multi-Process Label Switching"
+						},
+						{
+							"val": "Multi-Protocol Label Switching"
+						},
+						{
+							"val": "Multiple Process Label Shifting"
+						},
+						{
+							"val": "Multiple Protocol Label Shifting"
+						}
+					],
+					"q_answer": "Multi-Protocol Label Switching",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which will be Just in Time team which can be brought in to manage any increase in demands",
+					"q_options": [
+						{
+							"val": "Level2 team"
+						},
+						{
+							"val": "Level3 team"
+						},
+						{
+							"val": "Flexi Team"
+						},
+						{
+							"val": "Core Team"
+						}
+					],
+					"q_answer": "Flexi Team",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "SLA stands for",
+					"q_options": [
+						{
+							"val": "Software Level Agreement"
+						},
+						{
+							"val": "Service Level Agreement"
+						},
+						{
+							"val": "Shift Level Agreement"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Service Level Agreement",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "OCC stands for",
+					"q_options": [
+						{
+							"val": "Operational control counter"
+						},
+						{
+							"val": "Operational control council"
+						},
+						{
+							"val": "Operational control cell"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Operational control cell",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "BU requests and queries needs to be captured in",
+					"q_options": [
+						{
+							"val": "KA"
+						},
+						{
+							"val": "Service now tool"
+						},
+						{
+							"val": "KEDB"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "KEDB",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Change Request categories",
+					"q_options": [
+						{
+							"val": "Normal"
+						},
+						{
+							"val": "Standard"
+						},
+						{
+							"val": "Emergency"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Ticketing issues or incidents needs to be acknowledged within",
+					"q_options": [
+						{
+							"val": "60mins"
+						},
+						{
+							"val": "30mins"
+						},
+						{
+							"val": "45mins"
+						},
+						{
+							"val": "120mins"
+						}
+					],
+					"q_answer": "60mins",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "Expand CAB",
+					"q_options": [
+						{
+							"val": "Change approval Board"
+						},
+						{
+							"val": "Change authorization board"
+						},
+						{
+							"val": "Change acceptance board"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Change approval Board",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Alert monitoring mails needs to be involved for",
+					"q_options": [
+						{
+							"val": "Any Team member email"
+						},
+						{
+							"val": "Group lead email"
+						},
+						{
+							"val": "Application owner email"
+						},
+						{
+							"val": "Entire team"
+						}
+					],
+					"q_answer": "Entire team",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "All the application releases/upgrades  needs to be notified to",
+					"q_options": [
+						{
+							"val": "OCC"
+						},
+						{
+							"val": "Application owner"
+						},
+						{
+							"val": "Business users"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "During emergency cases,in order to support continuous IT operations, we can use",
+					"q_options": [
+						{
+							"val": "peer credentials"
+						},
+						{
+							"val": "own credentials"
+						},
+						{
+							"val": "common credentials"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "own credentials",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Expand BCP",
+					"q_options": [
+						{
+							"val": "Business Continuity plan"
+						},
+						{
+							"val": "Business Community process"
+						},
+						{
+							"val": "Business Continuity process"
+						},
+						{
+							"val": "Business community plan"
+						}
+					],
+					"q_answer": "Business Continuity plan",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "It is a very good practice to have a BCP plan for a support project during crisis time",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "TRUE",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "Every team member in App Support can be provided with admin credentials/access to Database along with DBA",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "FALSE",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "What are the 4P's of Design?",
+					"q_options": [
+						{
+							"val": "People, Product, Process, Partner"
+						},
+						{
+							"val": "People, Product, Plan, Partner"
+						},
+						{
+							"val": "Perspective, Position, Plan, Partner"
+						},
+						{
+							"val": "Perspective, Position, Plan, Pattern"
+						}
+					],
+					"q_answer": "People, Product, Process, Partner",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "Expand RR",
+					"q_options": [
+						{
+							"val": "Risk Register"
+						},
+						{
+							"val": "Risk Resolution"
+						},
+						{
+							"val": "Risk Routing"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Risk Register",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "According to SLA,the target resolution time for an incident with severity 4(High) should be",
+					"q_options": [
+						{
+							"val": "Within 6 hours"
+						},
+						{
+							"val": "Within 12 hours"
+						},
+						{
+							"val": "Within 2 days"
+						},
+						{
+							"val": "Within a day"
+						}
+					],
+					"q_answer": "Within 12 hours",
+					"q_checked": null
+				},
+				{
+					"q_id": "19",
+					"q_name": "Access Control list is maintained by",
+					"q_options": [
+						{
+							"val": "Team lead"
+						},
+						{
+							"val": "Group lead"
+						},
+						{
+							"val": "Delivery Manager"
+						},
+						{
+							"val": "Project Manager"
+						}
+					],
+					"q_answer": "Project Manager",
+					"q_checked": null
+				},
+				{
+					"q_id": "20",
+					"q_name": "How many stages are involved in ServiceNow in Incident Management lifecycle?",
+					"q_options": [
+						{
+							"val": "2"
+						},
+						{
+							"val": "4"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "6"
+						}
+					],
+					"q_answer": "5",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 4,
+			"module_name": "Technical",
+			"isDefault": false,
+			"teamID": "004",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Can constructor be made private?",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "TRUE",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "Which statement is true regarding an object?",
+					"q_options": [
+						{
+							"val": "An object is what classes instantiated are from"
+						},
+						{
+							"val": "An object is an instance of a class"
+						},
+						{
+							"val": "An object is a variable"
+						},
+						{
+							"val": "An object is a reference to an attribute"
+						}
+					],
+					"q_answer": "An object is an instance of a class",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which of the following has a method names flush( )",
+					"q_options": [
+						{
+							"val": "Input stream"
+						},
+						{
+							"val": "Output Stream"
+						},
+						{
+							"val": "Reader stream"
+						},
+						{
+							"val": "Input reader stream"
+						}
+					],
+					"q_answer": "Output Stream",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "Which component can be used for sending messages from one application to another?",
+					"q_options": [
+						{
+							"val": "server"
+						},
+						{
+							"val": "client"
+						},
+						{
+							"val": "mq"
+						},
+						{
+							"val": "Webapp"
+						}
+					],
+					"q_answer": "mq",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "What type of protocol is HTTP?",
+					"q_options": [
+						{
+							"val": "stateless"
+						},
+						{
+							"val": "stateful"
+						},
+						{
+							"val": "transfer protocol"
+						},
+						{
+							"val": "information protocol"
+						}
+					],
+					"q_answer": "stateless",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Which one is the default scope of the beans?",
+					"q_options": [
+						{
+							"val": "Prototype"
+						},
+						{
+							"val": "Session"
+						},
+						{
+							"val": "Request"
+						},
+						{
+							"val": "Singleton"
+						}
+					],
+					"q_answer": "Singleton",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Which attribute is used to set the scope of the bean?",
+					"q_options": [
+						{
+							"val": "setScope"
+						},
+						{
+							"val": "scope"
+						},
+						{
+							"val": "getScope"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "scope",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "If a bean can be created any number of times, scope is",
+					"q_options": [
+						{
+							"val": "session"
+						},
+						{
+							"val": "global-session"
+						},
+						{
+							"val": "prototype"
+						},
+						{
+							"val": "request"
+						}
+					],
+					"q_answer": "prototype",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "Which of these keywords must be used to monitor for exceptions?",
+					"q_options": [
+						{
+							"val": "try"
+						},
+						{
+							"val": "finally"
+						},
+						{
+							"val": "throw"
+						},
+						{
+							"val": "catch"
+						}
+					],
+					"q_answer": "try",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "At run time, error is recoverable.",
+					"q_options": [
+						{
+							"val": "TRUE"
+						},
+						{
+							"val": "FALSE"
+						}
+					],
+					"q_answer": "FALSE",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "Which of these methods deletes all the elements from invoking collection?",
+					"q_options": [
+						{
+							"val": "clear()"
+						},
+						{
+							"val": "reset()"
+						},
+						{
+							"val": "delete()"
+						},
+						{
+							"val": "refresh()"
+						}
+					],
+					"q_answer": "clear()",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Which version of Java introduced annotation?",
+					"q_options": [
+						{
+							"val": "Java 5"
+						},
+						{
+							"val": "Java 6"
+						},
+						{
+							"val": "Java 7"
+						},
+						{
+							"val": "Java 8"
+						}
+					],
+					"q_answer": "Java 5",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Which of these methods can be used to obtain set of all keys in a map?",
+					"q_options": [
+						{
+							"val": "getAll()"
+						},
+						{
+							"val": "getKeys()"
+						},
+						{
+							"val": "keyall()"
+						},
+						{
+							"val": "keySet()"
+						}
+					],
+					"q_answer": "keySet()",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "Which of these data types is used by operating system to manage the Recursion in Java?",
+					"q_options": [
+						{
+							"val": "Array"
+						},
+						{
+							"val": "Stack"
+						},
+						{
+							"val": "Queue"
+						},
+						{
+							"val": "Tree"
+						}
+					],
+					"q_answer": "Stack",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "Which of these methods are used to register a keyboard event listener?",
+					"q_options": [
+						{
+							"val": "KeyListener()"
+						},
+						{
+							"val": "addKistener()"
+						},
+						{
+							"val": "addKeyListener()"
+						},
+						{
+							"val": "eventKeyboardListener()"
+						}
+					],
+					"q_answer": "addKeyListener()",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "Which of this access specifies can be used for a class so that its members can be accessed by a different class in the same package?",
+					"q_options": [
+						{
+							"val": "Protected"
+						},
+						{
+							"val": "Public"
+						},
+						{
+							"val": "No Modifier"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "Which of the following package stores all the standard java classes?",
+					"q_options": [
+						{
+							"val": "lang"
+						},
+						{
+							"val": "java"
+						},
+						{
+							"val": "util"
+						},
+						{
+							"val": "java.packages"
+						}
+					],
+					"q_answer": "java",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "Which of these operators is used to allocate memory to array variable in Java?",
+					"q_options": [
+						{
+							"val": "malloc"
+						},
+						{
+							"val": "alloc"
+						},
+						{
+							"val": "new"
+						},
+						{
+							"val": "new malloc"
+						}
+					],
+					"q_answer": "new",
+					"q_checked": null
+				},
+				{
+					"q_id": "19",
+					"q_name": "Which concept of Java is achieved by combining methods and attribute into a class?",
+					"q_options": [
+						{
+							"val": "Encapsulation"
+						},
+						{
+							"val": "Inheritance"
+						},
+						{
+							"val": "Polymorphism"
+						},
+						{
+							"val": "Abstraction"
+						}
+					],
+					"q_answer": "Encapsulation",
+					"q_checked": null
+				},
+				{
+					"q_id": "20",
+					"q_name": "Which of these class is related to all the exceptions that are explicitly thrown?",
+					"q_options": [
+						{
+							"val": "Error"
+						},
+						{
+							"val": "Exception"
+						},
+						{
+							"val": "Throwable"
+						},
+						{
+							"val": "Throw"
+						}
+					],
+					"q_answer": "Throwable",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 5,
+			"module_name": "Data Services",
+			"isDefault": false,
+			"teamID": "005",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Which one of the below is not one of the Data Services platform.",
+					"q_options": [
+						{
+							"val": "Hyperion"
+						},
+						{
+							"val": "Data Quality"
+						},
+						{
+							"val": "R-studio"
+						},
+						{
+							"val": "SAS"
+						}
+					],
+					"q_answer": "Data Quality",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "For Data Services, What is the other support service we provide outside of platform Support?",
+					"q_options": [
+						{
+							"val": "ETL"
+						},
+						{
+							"val": "Syncsort"
+						},
+						{
+							"val": "Data Quality"
+						},
+						{
+							"val": "Trillium"
+						}
+					],
+					"q_answer": "Data Quality",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which one is the Analytics tool used in IHG?",
+					"q_options": [
+						{
+							"val": "OBIEE/BO"
+						},
+						{
+							"val": "Bigdata/Syncsort"
+						},
+						{
+							"val": "SAS/R-studio"
+						},
+						{
+							"val": "ETL/DQ"
+						}
+					],
+					"q_answer": "SAS/R-studio",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "Which of the application is currently undergoing or getting ready to start the migration to a new platform?",
+					"q_options": [
+						{
+							"val": "Bigdata"
+						},
+						{
+							"val": "Syncsort"
+						},
+						{
+							"val": "IHGR"
+						},
+						{
+							"val": "Tableau"
+						}
+					],
+					"q_answer": "Bigdata",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Which is our primary Datawarehouse?",
+					"q_options": [
+						{
+							"val": "Teradata"
+						},
+						{
+							"val": "Oracle"
+						},
+						{
+							"val": "OLAP"
+						},
+						{
+							"val": "OLTP"
+						}
+					],
+					"q_answer": "Teradata",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "What cloud solution are we utilizing for Bigdata?",
+					"q_options": [
+						{
+							"val": "Microsoft Azure"
+						},
+						{
+							"val": "iCloud"
+						},
+						{
+							"val": "Google Cloud Platform"
+						},
+						{
+							"val": "Cloud Foundry"
+						}
+					],
+					"q_answer": "Google Cloud Platform",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Guest Arrival Report (GAR) is also called as",
+					"q_options": [
+						{
+							"val": "SBRP"
+						},
+						{
+							"val": "Peoplesoft "
+						},
+						{
+							"val": "BowTie"
+						},
+						{
+							"val": "Einnstein"
+						}
+					],
+					"q_answer": "BowTie",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "The system that allows hotel users to access their operational reports is",
+					"q_options": [
+						{
+							"val": "Spyder"
+						},
+						{
+							"val": "Hyperion"
+						},
+						{
+							"val": "Trillium"
+						},
+						{
+							"val": "IHGR"
+						}
+					],
+					"q_answer": "IHGR",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "The survey that enables IHG to receive feedback from their guests is called",
+					"q_options": [
+						{
+							"val": "HREV"
+						},
+						{
+							"val": "Heartbeat"
+						},
+						{
+							"val": "Peoplesoft"
+						},
+						{
+							"val": "E-Folio"
+						}
+					],
+					"q_answer": "Heartbeat",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Which product takes care of Address cleansing for Data Services",
+					"q_options": [
+						{
+							"val": "Hyperion"
+						},
+						{
+							"val": "Trillium"
+						},
+						{
+							"val": "ETL"
+						},
+						{
+							"val": "SAS"
+						}
+					],
+					"q_answer": "Trillium",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "Which one of the below is the reporting platform in Data Services?",
+					"q_options": [
+						{
+							"val": "ETL/DQ"
+						},
+						{
+							"val": "Bigdata/Syncsort"
+						},
+						{
+							"val": "SAS/R-studio"
+						},
+						{
+							"val": "OBIEE/BO"
+						}
+					],
+					"q_answer": "OBIEE/BO",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Which is the monitoring tool we use to monitor the health of our data systems?",
+					"q_options": [
+						{
+							"val": "Dynatrace"
+						},
+						{
+							"val": "Netcool"
+						},
+						{
+							"val": "Autosys"
+						},
+						{
+							"val": "ServiceNOW"
+						}
+					],
+					"q_answer": "Dynatrace",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "What is the name of the report that is distributed daily for Data Services",
+					"q_options": [
+						{
+							"val": "Daily Status Report"
+						},
+						{
+							"val": "Daily Loads"
+						},
+						{
+							"val": "Reservations"
+						},
+						{
+							"val": "Bookings"
+						}
+					],
+					"q_answer": "Daily Status Report",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "Which type of file we donot receive from our hotels on a daily basis?",
+					"q_options": [
+						{
+							"val": "DCO"
+						},
+						{
+							"val": "Revenue"
+						},
+						{
+							"val": "Booking"
+						},
+						{
+							"val": "E-Folio"
+						}
+					],
+					"q_answer": "Booking",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "DCO stands for",
+					"q_options": [
+						{
+							"val": "Daily Check Out"
+						},
+						{
+							"val": "Detailed Check Out"
+						},
+						{
+							"val": "Dynamic Check Out"
+						},
+						{
+							"val": "Direct Check Out"
+						}
+					],
+					"q_answer": "Detailed Check Out",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 6,
+			"module_name": "B2B Support",
+			"isDefault": false,
+			"teamID": "006",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Which platforms can use B2B for IHG hotel bookings?",
+					"q_options": [
+						{
+							"val": "OTA/OTA Direct"
+						},
+						{
+							"val": "Meta Search"
+						},
+						{
+							"val": "GDS"
+						},
+						{
+							"val": "All The Above"
+						}
+					],
+					"q_answer": "All The Above",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What is the minimum success rate for Expedia not to suspend IHG?",
+					"q_options": [
+						{
+							"val": "100%"
+						},
+						{
+							"val": "95%"
+						},
+						{
+							"val": "90%"
+						},
+						{
+							"val": "85%"
+						}
+					],
+					"q_answer": "90%",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which xml schema format supported by B2B?",
+					"q_options": [
+						{
+							"val": "OTA Standard"
+						},
+						{
+							"val": "IHG Specific Standard"
+						},
+						{
+							"val": "Any Standard"
+						}
+					],
+					"q_answer": "OTA Standard",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "How many data center for B2B?",
+					"q_options": [
+						{
+							"val": "1"
+						},
+						{
+							"val": "2"
+						},
+						{
+							"val": "3"
+						},
+						{
+							"val": "4"
+						}
+					],
+					"q_answer": "2",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "How many servers supported for B2B?",
+					"q_options": [
+						{
+							"val": "90"
+						},
+						{
+							"val": "45"
+						},
+						{
+							"val": "50"
+						},
+						{
+							"val": "100"
+						}
+					],
+					"q_answer": "90",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Classification of failures in B2B partners?",
+					"q_options": [
+						{
+							"val": "Soft Failure"
+						},
+						{
+							"val": "Hard Failure"
+						},
+						{
+							"val": "Both"
+						}
+					],
+					"q_answer": "Both",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "What ARI stands for?",
+					"q_options": [
+						{
+							"val": "Availability Rate Index"
+						},
+						{
+							"val": "Availability Rate Indicator"
+						},
+						{
+							"val": "Availability Room Index"
+						},
+						{
+							"val": "Availability Room Indicator"
+						}
+					],
+					"q_answer": "Availability Rate Index",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Inhibition can be done for?",
+					"q_options": [
+						{
+							"val": "Hotel Level"
+						},
+						{
+							"val": "Rate Level"
+						},
+						{
+							"val": "Region Level"
+						},
+						{
+							"val": "All The Above"
+						}
+					],
+					"q_answer": "All The Above",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "What are all the database used in B2B?",
+					"q_options": [
+						{
+							"val": "B2B-LOG"
+						},
+						{
+							"val": "B2B-ECOM"
+						},
+						{
+							"val": "B2B-DMART"
+						},
+						{
+							"val": "All The Above"
+						}
+					],
+					"q_answer": "All The above",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Tool to check transactions (RQ/RS) from Partners?",
+					"q_options": [
+						{
+							"val": "Trace"
+						},
+						{
+							"val": "B2BUI"
+						},
+						{
+							"val": "AppD"
+						},
+						{
+							"val": "DynaTrace"
+						}
+					],
+					"q_answer": "Trace",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "Is IP whitelisting Authentication supported in B2B?",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Tool to check partner related details in B2B?",
+					"q_options": [
+						{
+							"val": "Dashboard"
+						},
+						{
+							"val": "B2BUI"
+						},
+						{
+							"val": "AppD"
+						},
+						{
+							"val": "DynaTrace"
+						}
+					],
+					"q_answer": "Dashboard",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Number of transaction per client can be controlled by throttling.",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "How many API services has been supported by B2B?",
+					"q_options": [
+						{
+							"val": "72"
+						},
+						{
+							"val": "75"
+						},
+						{
+							"val": "80"
+						},
+						{
+							"val": "70"
+						}
+					],
+					"q_answer": "72",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "Number of TPS can be controlled by B2B?",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 7,
+			"module_name": "GRS Support",
+			"isDefault": false,
+			"teamID": "007",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "What is the abbreviation of CTA?",
+					"q_options": [
+						{
+							"val": "Common Travel Agency"
+						},
+						{
+							"val": "Closed to Arrival"
+						},
+						{
+							"val": "Common to Agency"
+						},
+						{
+							"val": "All The Above"
+						}
+					],
+					"q_answer": "Closed to Arrival",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What message sent to GRS from PMS ?",
+					"q_options": [
+						{
+							"val": "TPI"
+						},
+						{
+							"val": "SAI"
+						},
+						{
+							"val": "XML"
+						},
+						{
+							"val": "JSON"
+						}
+					],
+					"q_answer": "SAI",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "What is the operation performed for sending rates to PMS from GRS manually?",
+					"q_options": [
+						{
+							"val": "PMS Refresh"
+						},
+						{
+							"val": "Rates Updates"
+						},
+						{
+							"val": "Reservation Update"
+						},
+						{
+							"val": "Both A and B"
+						}
+					],
+					"q_answer": "PMS Refresh",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "Where the PMS refresh operation is done?",
+					"q_options": [
+						{
+							"val": "PMS"
+						},
+						{
+							"val": "GRS"
+						},
+						{
+							"val": "HGW"
+						},
+						{
+							"val": "RMS"
+						}
+					],
+					"q_answer": "GRS",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Who will create the rate category?",
+					"q_options": [
+						{
+							"val": "Hotel User"
+						},
+						{
+							"val": "Central Reservation Officer"
+						},
+						{
+							"val": "Corporate Business Team"
+						},
+						{
+							"val": "Guest"
+						}
+					],
+					"q_answer": "Corporate Business Team",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Who is the interface between GRS and PMS?",
+					"q_options": [
+						{
+							"val": "HMI"
+						},
+						{
+							"val": "HGW"
+						},
+						{
+							"val": "Reservation ESB"
+						},
+						{
+							"val": "IF"
+						}
+					],
+					"q_answer": "HGW",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "What is meant by Avalon?",
+					"q_options": [
+						{
+							"val": "Inventory Control"
+						},
+						{
+							"val": "Availability of Rooms and Rate for 14Days"
+						},
+						{
+							"val": "Revenue Management System"
+						},
+						{
+							"val": "Availability Room Indicator"
+						}
+					],
+					"q_answer": "Availability of Rooms and Rate for 14Days",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "What is meant by IHG rewards club member Id?",
+					"q_options": [
+						{
+							"val": "IHG Club member Id for getting loyalty points/offers"
+						},
+						{
+							"val": "Hotel user Id"
+						},
+						{
+							"val": "Corporate user Id"
+						},
+						{
+							"val": "All the Above"
+						}
+					],
+					"q_answer": "IHG Club member Id for getting loyalty points/offers",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "What are all the channels available for booking a reservation?",
+					"q_options": [
+						{
+							"val": "Web/Mobile channel"
+						},
+						{
+							"val": "PMS application at  hotel"
+						},
+						{
+							"val": "CRO/IRIS"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "All the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "What  DB used for pulling the inspection framework logs?",
+					"q_options": [
+						{
+							"val": "Oracle"
+						},
+						{
+							"val": "Hive"
+						},
+						{
+							"val": "Both A and B"
+						},
+						{
+							"val": "Only A"
+						}
+					],
+					"q_answer": "Hive",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "How to check  the reservation details in GRS?",
+					"q_options": [
+						{
+							"val": "Manage reservation"
+						},
+						{
+							"val": "Pricing"
+						},
+						{
+							"val": "Inventory Control"
+						},
+						{
+							"val": "Manage Groups"
+						}
+					],
+					"q_answer": "Manage reservation",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Who can activate the rate category at hotel level?",
+					"q_options": [
+						{
+							"val": "Hotel authorized user"
+						},
+						{
+							"val": "Corporate user"
+						},
+						{
+							"val": "Central Reservation Officer"
+						},
+						{
+							"val": "all GRS application user"
+						}
+					],
+					"q_answer": "Hotel authorized user",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "We can book a room in GRS. True or False?",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "False",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "What is meant by GDS?",
+					"q_options": [
+						{
+							"val": "Global Distribution System"
+						},
+						{
+							"val": "Guest Distribution System"
+						},
+						{
+							"val": "Global Development System"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Global Distribution System",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "What is the full form of RMS?",
+					"q_options": [
+						{
+							"val": "Reservation Management System"
+						},
+						{
+							"val": "Revenue Management System"
+						},
+						{
+							"val": "c. Rooms Management System"
+						},
+						{
+							"val": "Rates Management System"
+						}
+					],
+					"q_answer": "Revenue Management System",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 8,
+			"module_name": "OLS Support",
+			"isDefault": false,
+			"teamID": "008",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "What does OLS stand for?",
+					"q_options": [
+						{
+							"val": "Owner Lifecycle System"
+						},
+						{
+							"val": "Ordinary least squares"
+						},
+						{
+							"val": "Online Linguistic Support"
+						},
+						{
+							"val": "Original Lifecycle Sequence"
+						}
+					],
+					"q_answer": "Owner Lifecycle System",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "Type of roles in Growth",
+					"q_options": [
+						{
+							"val": "3"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "8"
+						},
+						{
+							"val": "2"
+						}
+					],
+					"q_answer": "3",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "What is Growth",
+					"q_options": [
+						{
+							"val": "Contract Management Life Cycle"
+						},
+						{
+							"val": "Hotel Management Life Cycle"
+						},
+						{
+							"val": "Entity Management Life Cycle"
+						},
+						{
+							"val": "Owner Relationship Manager"
+						}
+					],
+					"q_answer": "Contract Management Life Cycle",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "What is Core tables in Growth",
+					"q_options": [
+						{
+							"val": "Hotel, Contract, Entity  ,Individual"
+						},
+						{
+							"val": "Fees, Contract, Hotel, Individual"
+						},
+						{
+							"val": "User, Individual, Fees, Contract"
+						},
+						{
+							"val": "Hotel status, Hotel, Hotel activity, Hotel role"
+						}
+					],
+					"q_answer": "Hotel, Contract, Entity  ,Individual",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Which are application webservers used in Growth",
+					"q_options": [
+						{
+							"val": "Jboss, Tomcat"
+						},
+						{
+							"val": "Node.js, Nginx "
+						},
+						{
+							"val": "Tomcat, WebLogic"
+						},
+						{
+							"val": "IIS, LightSpeed"
+						}
+					],
+					"q_answer": "Tomcat, WebLogic",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "How many status code in Contract status",
+					"q_options": [
+						{
+							"val": "18"
+						},
+						{
+							"val": "14"
+						},
+						{
+							"val": "13"
+						},
+						{
+							"val": "16"
+						}
+					],
+					"q_answer": "16",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "What is Project in HOM",
+					"q_options": [
+						{
+							"val": "Collection of Hotels"
+						},
+						{
+							"val": "Collection of Tasks which is related to hotel"
+						},
+						{
+							"val": "Collection of Contract which is related to hotel"
+						},
+						{
+							"val": "Collection of portfolio which is related to hotel"
+						}
+					],
+					"q_answer": "Collection of Tasks which is related to hotel",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "How many ways to create user in HOM",
+					"q_options": [
+						{
+							"val": "2"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "1"
+						},
+						{
+							"val": "3"
+						}
+					],
+					"q_answer": "2",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "HOM having Cron Job",
+					"q_options": [
+						{
+							"val": "Yes"
+						},
+						{
+							"val": "No"
+						},
+						{
+							"val": "Not Applicable"
+						}
+					],
+					"q_answer": "Yes",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Which table is having hotel details in HOM",
+					"q_options": [
+						{
+							"val": "Proj"
+						},
+						{
+							"val": "mv_growth_hotel_info"
+						},
+						{
+							"val": "hotels"
+						},
+						{
+							"val": "hotel_info"
+						}
+					],
+					"q_answer": "mv_growth_hotel_info",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "Select which application is used to update or add GM",
+					"q_options": [
+						{
+							"val": "Growth"
+						},
+						{
+							"val": "HOM"
+						},
+						{
+							"val": "ORM"
+						},
+						{
+							"val": "OFA"
+						}
+					],
+					"q_answer": "ORM",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Which plugin is using in ORM to export excel files",
+					"q_options": [
+						{
+							"val": "Flex Plugin"
+						},
+						{
+							"val": "Flash Plugin"
+						},
+						{
+							"val": "No Plugin Used"
+						}
+					],
+					"q_answer": "Flash Plugin",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Select which application is used to provide reports",
+					"q_options": [
+						{
+							"val": "DIL"
+						},
+						{
+							"val": "OFA"
+						},
+						{
+							"val": "ORM"
+						},
+						{
+							"val": "HOM"
+						}
+					],
+					"q_answer": "ORM",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "Are we not able to sync growth and ORM individuals?",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "False",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "List of group names for OLS",
+					"q_options": [
+						{
+							"val": "IY-GLBL-OOE-Support, IY-GLBL-OOE-MGT1"
+						},
+						{
+							"val": "IY-GLBL-OOE-MGT1, IY-GLBL-OOE-MGT2"
+						},
+						{
+							"val": "IY-GLBL-OOE-Support, IY-GLBL-HCM-Support"
+						},
+						{
+							"val": "IY-GLBL-OOE1-Support, IY-GLBL-OOE2-Support"
+						}
+					],
+					"q_answer": "a. IY-GLBL-OOE-Support, IY-GLBL-OOE-MGT1",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 9,
+			"module_name": "PMS Support",
+			"isDefault": false,
+			"teamID": "009",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "What is the abbreviation of OXI?",
+					"q_options": [
+						{
+							"val": "Opera Exchange Internet"
+						},
+						{
+							"val": "Opera External Interface"
+						},
+						{
+							"val": "Opera Exchange Interface"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Opera Exchange Interface",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What message sent to GRS from PMS ?",
+					"q_options": [
+						{
+							"val": "TPI"
+						},
+						{
+							"val": "SAI"
+						},
+						{
+							"val": "XML"
+						},
+						{
+							"val": "JSON"
+						}
+					],
+					"q_answer": "SAI",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "What message sent to PMS from GRS?",
+					"q_options": [
+						{
+							"val": "TPI"
+						},
+						{
+							"val": "SAI"
+						},
+						{
+							"val": "XML"
+						},
+						{
+							"val": "JSON"
+						}
+					],
+					"q_answer": "TPI",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "What is the operation performed for sending rates to PMS from GRS manually?",
+					"q_options": [
+						{
+							"val": "PMS Refresh"
+						},
+						{
+							"val": "Rates Update"
+						},
+						{
+							"val": "Reservation update"
+						},
+						{
+							"val": "Both A and B"
+						}
+					],
+					"q_answer": "PMS Refresh",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Where the PMS refresh operation is done?",
+					"q_options": [
+						{
+							"val": "PMS"
+						},
+						{
+							"val": "GRS"
+						},
+						{
+							"val": "HGW"
+						},
+						{
+							"val": "RMS"
+						}
+					],
+					"q_answer": "GRS",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Who will create the rate category?",
+					"q_options": [
+						{
+							"val": "Hotel user"
+						},
+						{
+							"val": "Central Reservation Office"
+						},
+						{
+							"val": "Corporate Business team"
+						},
+						{
+							"val": "Guest"
+						}
+					],
+					"q_answer": "Corporate Business team",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Who is the interface between GRS and PMS?",
+					"q_options": [
+						{
+							"val": "HMI"
+						},
+						{
+							"val": "HGW"
+						},
+						{
+							"val": "Reservation ESB"
+						},
+						{
+							"val": "IF"
+						}
+					],
+					"q_answer": "HGW",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "What is the GDC?",
+					"q_options": [
+						{
+							"val": "Guaranteed Delivery Component"
+						},
+						{
+							"val": "Global Delivery Component"
+						},
+						{
+							"val": "Global Distribution Component"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Guaranteed Delivery Component",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "What is meant by HMI?",
+					"q_options": [
+						{
+							"val": "Inventory Control"
+						},
+						{
+							"val": "Six Continental Hotel Support Management"
+						},
+						{
+							"val": "Revenue Management System"
+						},
+						{
+							"val": "Availability Room indicator"
+						}
+					],
+					"q_answer": "Six Continental Hotel Support Management",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "What is meant by IHG rewards club member Id?",
+					"q_options": [
+						{
+							"val": "IHG Club member Id for getting loyalty points/offers"
+						},
+						{
+							"val": "Hotel user Id"
+						},
+						{
+							"val": "Corporate user Id"
+						},
+						{
+							"val": "All the Above"
+						}
+					],
+					"q_answer": "IHG Club member Id for getting loyalty points/offers",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "What are application interface used in hotel end user?",
+					"q_options": [
+						{
+							"val": "Web/Mobile channel"
+						},
+						{
+							"val": "PMS application Tool"
+						},
+						{
+							"val": "CRO/IRIS"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "PMS application Tool",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "What  DB used for pulling the inspection framework logs?",
+					"q_options": [
+						{
+							"val": "Oracle"
+						},
+						{
+							"val": "Hive"
+						},
+						{
+							"val": "Both A and B"
+						},
+						{
+							"val": "Only A"
+						}
+					],
+					"q_answer": "Hive",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "What is SAI and TPI?",
+					"q_options": [
+						{
+							"val": "Stand Alone Interface and Transfer Control Protocol"
+						},
+						{
+							"val": "Stand Alone Internet and Transfer Control Protocol"
+						},
+						{
+							"val": "Stand Alone Interface and Transfering Central Protocol"
+						},
+						{
+							"val": "Stand Alone Internal and Transfer Control Protocol"
+						}
+					],
+					"q_answer": "Stand Alone Interface and Transfer Control Protocol",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "Who can activate the rate category at hotel level?",
+					"q_options": [
+						{
+							"val": "Hotel authorized user"
+						},
+						{
+							"val": "Corporate user"
+						},
+						{
+							"val": "Central Reservation Officer"
+						},
+						{
+							"val": "all GRS application user"
+						}
+					],
+					"q_answer": "Hotel authorized user",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "We can book a room in PMS. True or False?",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "What is meant by ODS?",
+					"q_options": [
+						{
+							"val": "Operational Data Store"
+						},
+						{
+							"val": "Operational Data System"
+						},
+						{
+							"val": "Operation Development System"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Operational Data Store",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "What is the full form of  AIB?",
+					"q_options": [
+						{
+							"val": "Automated Inventory Balance"
+						},
+						{
+							"val": "Automatic Intentory Balance"
+						},
+						{
+							"val": "Automated Initiate Balance"
+						},
+						{
+							"val": "All the Above."
+						}
+					],
+					"q_answer": "Automated Inventory Balance",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "Which one is the Group Block?",
+					"q_options": [
+						{
+							"val": "Reservation Block"
+						},
+						{
+							"val": "Business Block"
+						},
+						{
+							"val": "Guest Reservation Block"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Business Block",
+					"q_checked": null
+				},
+				{
+					"q_id": "19",
+					"q_name": "Which operation is the correct “Inventory Download Response”?",
+					"q_options": [
+						{
+							"val": "Inventory Information"
+						},
+						{
+							"val": "Out of Order Rooms"
+						},
+						{
+							"val": "Inventory Internal Information"
+						},
+						{
+							"val": "Out of  Order Inventory Information"
+						}
+					],
+					"q_answer": "Inventory Information",
+					"q_checked": null
+				},
+				{
+					"q_id": "20",
+					"q_name": "What is mean by RD and BA?",
+					"q_options": [
+						{
+							"val": "Reservation Download and Business Amadeus"
+						},
+						{
+							"val": "Reservation Data and Business Assessment"
+						},
+						{
+							"val": "Research Data and Busness Address"
+						},
+						{
+							"val": "Reservation Download and Business Address"
+						}
+					],
+					"q_answer": "Reservation Download and Business Address",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 10,
+			"module_name": "HCM Support",
+			"isDefault": false,
+			"teamID": "010",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "In below which one is HCM API?",
+					"q_options": [
+						{
+							"val": "HCS & HSS"
+						},
+						{
+							"val": "HDS & HCS"
+						},
+						{
+							"val": "HGB & ESR"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "HCS & HSS",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "In HCM Support console how many tools are being included?",
+					"q_options": [
+						{
+							"val": "21"
+						},
+						{
+							"val": "45"
+						},
+						{
+							"val": "25"
+						},
+						{
+							"val": "36"
+						}
+					],
+					"q_answer": "25",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Which tools is used to see history of attributes values?",
+					"q_options": [
+						{
+							"val": "Permission Audit"
+						},
+						{
+							"val": "Version History"
+						},
+						{
+							"val": "Service Trace Tool"
+						},
+						{
+							"val": "Lanyon Admin"
+						}
+					],
+					"q_answer": "Version History",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "By using which tool we can get to know Attributes access restriction?",
+					"q_options": [
+						{
+							"val": "Catalog Info"
+						},
+						{
+							"val": "Version History"
+						},
+						{
+							"val": "Lanyon Admin"
+						},
+						{
+							"val": "Service Trace Tool"
+						}
+					],
+					"q_answer": "Catalog Info",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "By using which tool we can get to know particular image is reached to Scene7 server?",
+					"q_options": [
+						{
+							"val": "Scene7API"
+						},
+						{
+							"val": "Service Trace Tool"
+						},
+						{
+							"val": "Photo Tracking Tool"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Photo Tracking Tool",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "What needs to done if the content not reach to HCS service?",
+					"q_options": [
+						{
+							"val": "Need to check content valid or not"
+						},
+						{
+							"val": "Need to check log files"
+						},
+						{
+							"val": "Need to publish the content by using Publisher Tool"
+						},
+						{
+							"val": "A & C"
+						}
+					],
+					"q_answer": "A & C",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "What HCS stands for?",
+					"q_options": [
+						{
+							"val": "Hotel Content Service"
+						},
+						{
+							"val": "Hotel Creation System"
+						},
+						{
+							"val": "Hotel Search Service"
+						},
+						{
+							"val": "Hotel Correction Service"
+						}
+					],
+					"q_answer": "Hotel Content Service",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Which Tool is used to confirm Content reached to HCS service successfully?",
+					"q_options": [
+						{
+							"val": "Publisher Tool"
+						},
+						{
+							"val": "Catalog Info"
+						},
+						{
+							"val": "Guest API"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Guest API",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "Which team is responsible for Approving Contents from HCM?",
+					"q_options": [
+						{
+							"val": "HCM- Admin team"
+						},
+						{
+							"val": "MBSS team"
+						},
+						{
+							"val": "Revenue Manager"
+						},
+						{
+							"val": "HCM- Support Team"
+						}
+					],
+					"q_answer": "MBSS team",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Hotel Name/Address details attribute values are coming from which channel?",
+					"q_options": [
+						{
+							"val": "Growth"
+						},
+						{
+							"val": "B2B"
+						},
+						{
+							"val": "Lanyon"
+						},
+						{
+							"val": "RTS"
+						}
+					],
+					"q_answer": "Growth",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 11,
+			"module_name": "Web Support",
+			"isDefault": false,
+			"teamID": "011",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Points & Cash Reward Nights may be redeemed using these mediums?",
+					"q_options": [
+						{
+							"val": "IHG Rewards Club website"
+						},
+						{
+							"val": "The IHG mobile app"
+						},
+						{
+							"val": "IHG reservation call centre"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What are the ways to redeem points?",
+					"q_options": [
+						{
+							"val": "Reward Nights"
+						},
+						{
+							"val": "Shopping"
+						},
+						{
+							"val": "Giftcards"
+						},
+						{
+							"val": "Digital rewards"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "Whar are the reward club levels are available in IHG?",
+					"q_options": [
+						{
+							"val": "Club"
+						},
+						{
+							"val": "Gold Elite"
+						},
+						{
+							"val": "Platinum Elite"
+						},
+						{
+							"val": "Spire Elite"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "What would be the maximum bonus points for reservation and expiration time?",
+					"q_options": [
+						{
+							"val": "1000 & No expiration"
+						},
+						{
+							"val": "Based on the reward type and 12months"
+						},
+						{
+							"val": "Based on the promotions and must have one  earn/redem trasaction account every 12 months"
+						},
+						{
+							"val": "No limit & No expiration"
+						}
+					],
+					"q_answer": "Based on the promotions and must have one  earn/redem trasaction account every 12 months",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "What are the webclassic applications are available under Web MCA?",
+					"q_options": [
+						{
+							"val": "Stay preference"
+						},
+						{
+							"val": "Destinations"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "What are the monitoring tools that we are using in MCA Web?",
+					"q_options": [
+						{
+							"val": "Dynatrace"
+						},
+						{
+							"val": "Appdynamic"
+						},
+						{
+							"val": "opsview"
+						},
+						{
+							"val": "New relic"
+						},
+						{
+							"val": "1 & 2"
+						}
+					],
+					"q_answer": "1 & 2",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "How do you define incident priority?",
+					"q_options": [
+						{
+							"val": "Priority"
+						},
+						{
+							"val": "severity"
+						},
+						{
+							"val": "Both"
+						}
+					],
+					"q_answer": "Both",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "What would be the maximum member count to make the reservation?",
+					"q_options": [
+						{
+							"val": "30"
+						},
+						{
+							"val": "10"
+						},
+						{
+							"val": "40"
+						},
+						{
+							"val": "Unlimited"
+						}
+					],
+					"q_answer": "40",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "When the bridge call needs to be create?",
+					"q_options": [
+						{
+							"val": "For all tickets"
+						},
+						{
+							"val": "Critical tickets"
+						},
+						{
+							"val": "As per the need"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "As per the need",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "when needs to create Root cause analysise document ?",
+					"q_options": [
+						{
+							"val": "High priority ticket"
+						},
+						{
+							"val": "P2 &P3"
+						},
+						{
+							"val": "All tickets"
+						},
+						{
+							"val": "1 & 2"
+						}
+					],
+					"q_answer": "High priority ticket",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "what is the Target response and resolution for the Critical ticket?",
+					"q_options": [
+						{
+							"val": "98% with in 5min && 98% with in 4 hours"
+						},
+						{
+							"val": "80% with in 30min & 90% with in a 8 hours"
+						},
+						{
+							"val": "100% within 20min & 95% with in 2days"
+						},
+						{
+							"val": "Not a time specific"
+						}
+					],
+					"q_answer": "98% with in 5min && 98% with in 4 hours",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "what are the mediums to get the touch with the customer and vendor as well?",
+					"q_options": [
+						{
+							"val": "Email & Phone"
+						},
+						{
+							"val": "SNOW"
+						},
+						{
+							"val": "Chat"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "Email & Phone",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "What are the applicaiton that we support under MCA WEB?",
+					"q_options": [
+						{
+							"val": "Find Hotels"
+						},
+						{
+							"val": "Stay & customer care"
+						},
+						{
+							"val": "Account Management"
+						},
+						{
+							"val": "customer care"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 12,
+			"module_name": "Loyality Support",
+			"isDefault": false,
+			"teamID": "012",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "Expansion of DCO",
+					"q_options": [
+						{
+							"val": "Detailed Checkout File"
+						},
+						{
+							"val": "Detailed Checkin File"
+						},
+						{
+							"val": "Distributed Checkout File"
+						},
+						{
+							"val": "None"
+						}
+					],
+					"q_answer": "Detailed Checkout File",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "Which f the following is not a free program of IHG Loy",
+					"q_options": [
+						{
+							"val": "IHG Rewards Club"
+						},
+						{
+							"val": "Ambassador"
+						},
+						{
+							"val": "IHG Business Rewards"
+						},
+						{
+							"val": "Karma Awards"
+						}
+					],
+					"q_answer": "Ambassador",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "What are the basic benefits Loyalty programs",
+					"q_options": [
+						{
+							"val": "Shift"
+						},
+						{
+							"val": "Lift"
+						},
+						{
+							"val": "Retain"
+						},
+						{
+							"val": "Profit"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "All the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "Which tool provides the business product team(s) at IHG full control over how Loyalty is delivered",
+					"q_options": [
+						{
+							"val": "Service Center UI"
+						},
+						{
+							"val": "Admin UI"
+						},
+						{
+							"val": "Loyalty Connect"
+						},
+						{
+							"val": "None Of the Above"
+						}
+					],
+					"q_answer": "Admin UI",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Which of the below operation(s) are available to hotels through loyalty connect",
+					"q_options": [
+						{
+							"val": "Stay Management"
+						},
+						{
+							"val": "Security & Employee Rate"
+						},
+						{
+							"val": "Reimbursement"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "All the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "Expand LCU",
+					"q_options": [
+						{
+							"val": "Loyalty Connect User"
+						},
+						{
+							"val": "List of Commission Updates"
+						},
+						{
+							"val": "Loyalty Connect Updates"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "List of Commission Updates",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Name the Customer Data Integration tool primarily used to identify non-loyalty guests based on stays and booking information",
+					"q_options": [
+						{
+							"val": "Trillum"
+						},
+						{
+							"val": "Initiate"
+						},
+						{
+							"val": "Magic"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Initiate",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Loyalty receives DCO file from ",
+					"q_options": [
+						{
+							"val": "Concerto"
+						},
+						{
+							"val": "HCM"
+						},
+						{
+							"val": " PMS"
+						},
+						{
+							"val": "GRS"
+						}
+					],
+					"q_answer": " PMS",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "Hotel users have ________ hours to adjust the stay information before it is posted in the member account",
+					"q_options": [
+						{
+							"val": "12 hr"
+						},
+						{
+							"val": "36 hr"
+						},
+						{
+							"val": "24 hr"
+						},
+						{
+							"val": "48 hr"
+						}
+					],
+					"q_answer": "24 hr",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Members who did not reach the required thresholds to upgrade to the next Tier-Level, but were close, are also migrated to a higher Level",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "Which application provides users the ability to enroll new members to various Loyalty programs",
+					"q_options": [
+						{
+							"val": "Service Center UI"
+						},
+						{
+							"val": "Loyalty Connect"
+						},
+						{
+							"val": "Admin UI"
+						},
+						{
+							"val": "None of the above"
+						}
+					],
+					"q_answer": "Service Center UI",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "Which status is used to cancel Vouchers prior to their expiry date. ",
+					"q_options": [
+						{
+							"val": "Closed"
+						},
+						{
+							"val": "Cancelled"
+						},
+						{
+							"val": "Void"
+						},
+						{
+							"val": "Deposited"
+						}
+					],
+					"q_answer": "Void",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Tax rates and Fees may only be adjusted during the month of",
+					"q_options": [
+						{
+							"val": "March"
+						},
+						{
+							"val": "December"
+						},
+						{
+							"val": "November"
+						},
+						{
+							"val": "April"
+						}
+					],
+					"q_answer": "November",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "What are the type of bookings available in IHG",
+					"q_options": [
+						{
+							"val": "Cash Booking"
+						},
+						{
+							"val": "Points Booking "
+						},
+						{
+							"val": "Points and Cash Booking "
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "All the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "n standard how many points  member will get per $1 USD ",
+					"q_options": [
+						{
+							"val": "15 points"
+						},
+						{
+							"val": "10 points"
+						},
+						{
+							"val": "30 point"
+						},
+						{
+							"val": "50 points"
+						}
+					],
+					"q_answer": "10 points",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "How many points need to achieve Platinum Membership in IHG ",
+					"q_options": [
+						{
+							"val": "40000 points( or 40 qualifying nights)"
+						},
+						{
+							"val": "50000 points( or 50 qualifying nights)"
+						},
+						{
+							"val": "25000 points( or 25 qualifying nights)"
+						},
+						{
+							"val": "60000 points( or 60 qualifying nights)"
+						}
+					],
+					"q_answer": "50000 points( or 50 qualifying nights)",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "What are the different ways to enroll as members in IHG?",
+					"q_options": [
+						{
+							"val": "SCUI"
+						},
+						{
+							"val": "IHG.com"
+						},
+						{
+							"val": "Mobile"
+						},
+						{
+							"val": "All of the above"
+						}
+					],
+					"q_answer": "All of the above",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "LPU stands for",
+					"q_options": [
+						{
+							"val": "Loyalty Pending Units"
+						},
+						{
+							"val": "Loyalty Processing Updates"
+						},
+						{
+							"val": "Loyalty Pending Updates"
+						},
+						{
+							"val": "Loyalty Processing Units"
+						}
+					],
+					"q_answer": "Loyalty Pending Updates",
+					"q_checked": null
+				}
+			]
+		},
+		{
+			"module_id": 13,
+			"module_name": "Loyality Support",
+			"isDefault": false,
+			"teamID": "012",
+			"questions": [
+				{
+					"q_id": "1",
+					"q_name": "What is GNP ",
+					"q_options": [
+						{
+							"val": "Global Nightly Process"
+						},
+						{
+							"val": "Global Nightly Program"
+						},
+						{
+							"val": "Global Night Process"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Global Nightly Process",
+					"q_checked": null
+				},
+				{
+					"q_id": "2",
+					"q_name": "What is the use of RMS system ",
+					"q_options": [
+						{
+							"val": "Adding new Hotel"
+						},
+						{
+							"val": "Inventory management"
+						},
+						{
+							"val": "Hurtle Points & Rates"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "Hurtle Points & Rates",
+					"q_checked": null
+				},
+				{
+					"q_id": "3",
+					"q_name": "How many days shopping data are require for PO Hotel",
+					"q_options": [
+						{
+							"val": "75 days"
+						},
+						{
+							"val": "85 days"
+						},
+						{
+							"val": "90 days"
+						}
+					],
+					"q_answer": "90 days",
+					"q_checked": null
+				},
+				{
+					"q_id": "4",
+					"q_name": "In GPO, where the bookings are created",
+					"q_options": [
+						{
+							"val": "Agent Portal"
+						},
+						{
+							"val": "Delphi portal(Saleforce portal)"
+						},
+						{
+							"val": "IVR call"
+						},
+						{
+							"val": "Opera"
+						}
+					],
+					"q_answer": "Delphi portal(Saleforce portal)",
+					"q_checked": null
+				},
+				{
+					"q_id": "5",
+					"q_name": "Formula for ADR ",
+					"q_options": [
+						{
+							"val": "No. of Room Booking/No. Of Nights"
+						},
+						{
+							"val": "No. of Room available/No. Of Total Rooms"
+						},
+						{
+							"val": "No. of Room Nights/No. Of Total Rooms"
+						},
+						{
+							"val": "No. of Room Nights/No. of Booking"
+						}
+					],
+					"q_answer": "No. of Room Nights/No. of Booking",
+					"q_checked": null
+				},
+				{
+					"q_id": "6",
+					"q_name": "How to monitor Raven jobs ",
+					"q_options": [
+						{
+							"val": "JConsole"
+						},
+						{
+							"val": "JVM"
+						},
+						{
+							"val": "Both"
+						}
+					],
+					"q_answer": "JConsole",
+					"q_checked": null
+				},
+				{
+					"q_id": "7",
+					"q_name": "Who is the user of RMH-Toolkit? ",
+					"q_options": [
+						{
+							"val": "Agent"
+						},
+						{
+							"val": "Hotel Manager"
+						},
+						{
+							"val": "Hotel Revenue Manager"
+						},
+						{
+							"val": "Help desk"
+						}
+					],
+					"q_answer": "Hotel Revenue Manager",
+					"q_checked": null
+				},
+				{
+					"q_id": "8",
+					"q_name": "Datasource of PDI ",
+					"q_options": [
+						{
+							"val": "ETL"
+						},
+						{
+							"val": "Database"
+						},
+						{
+							"val": "Webservices"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "ETL",
+					"q_checked": null
+				},
+				{
+					"q_id": "9",
+					"q_name": "The data flow from RMS to GRS call it as ",
+					"q_options": [
+						{
+							"val": "RMS Rate"
+						},
+						{
+							"val": "RMS OUTBOUND"
+						},
+						{
+							"val": "RMS HP"
+						},
+						{
+							"val": "All the above"
+						}
+					],
+					"q_answer": "RMS OUTBOUND",
+					"q_checked": null
+				},
+				{
+					"q_id": "10",
+					"q_name": "Accuweather.com used",
+					"q_options": [
+						{
+							"val": "GRS"
+						},
+						{
+							"val": "RMS"
+						},
+						{
+							"val": "All the above"
+						},
+						{
+							"val": "Concerto weather forecasting"
+						}
+					],
+					"q_answer": "Concerto weather forecasting",
+					"q_checked": null
+				},
+				{
+					"q_id": "11",
+					"q_name": "How data loaded from HCM to concerto ",
+					"q_options": [
+						{
+							"val": "Rest Webservies"
+						},
+						{
+							"val": "Soap Webservices"
+						},
+						{
+							"val": "ETL"
+						}
+					],
+					"q_answer": "Soap Webservices",
+					"q_checked": null
+				},
+				{
+					"q_id": "12",
+					"q_name": "If GNP failed, below system have issue with rates ",
+					"q_options": [
+						{
+							"val": "RMS and GRS"
+						},
+						{
+							"val": "RMS"
+						},
+						{
+							"val": "GRS"
+						},
+						{
+							"val": "DynaTrace"
+						}
+					],
+					"q_answer": "RMS and GRS",
+					"q_checked": null
+				},
+				{
+					"q_id": "13",
+					"q_name": "Maximum number of competitor in price optimization ",
+					"q_options": [
+						{
+							"val": "5"
+						},
+						{
+							"val": "3"
+						},
+						{
+							"val": "4"
+						},
+						{
+							"val": "8"
+						}
+					],
+					"q_answer": "8",
+					"q_checked": null
+				},
+				{
+					"q_id": "14",
+					"q_name": "How many IHG competitor can add in Price optimization(maximum) ",
+					"q_options": [
+						{
+							"val": "1"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "2"
+						},
+						{
+							"val": "4"
+						}
+					],
+					"q_answer": "2",
+					"q_checked": null
+				},
+				{
+					"q_id": "15",
+					"q_name": "How many nodes are available in Raven",
+					"q_options": [
+						{
+							"val": "2"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "4"
+						},
+						{
+							"val": "1"
+						}
+					],
+					"q_answer": "5",
+					"q_checked": null
+				},
+				{
+					"q_id": "16",
+					"q_name": "How many nodes are there in Price Optimization",
+					"q_options": [
+						{
+							"val": "2"
+						},
+						{
+							"val": "5"
+						},
+						{
+							"val": "3"
+						},
+						{
+							"val": "1"
+						}
+					],
+					"q_answer": "3",
+					"q_checked": null
+				},
+				{
+					"q_id": "17",
+					"q_name": "SBRP means ",
+					"q_options": [
+						{
+							"val": "Strategic Business and Revenue Planning (SBRP)"
+						},
+						{
+							"val": "Strategy Business and Revenue Planning (SBRP)"
+						},
+						{
+							"val": "Strategy Bus and Revenue Planning (SBRP)"
+						},
+						{
+							"val": "Strategy Bus and Related Planning (SBRP)"
+						}
+					],
+					"q_answer": "Strategic Business and Revenue Planning (SBRP)",
+					"q_checked": null
+				},
+				{
+					"q_id": "18",
+					"q_name": "SBRP Application allows below configuring three business lines like Rooms, Food and Beverages and Catering and Events.",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				},
+				{
+					"q_id": "19",
+					"q_name": "Guest heartbeat jobs runs",
+					"q_options": [
+						{
+							"val": "1"
+						},
+						{
+							"val": "2"
+						},
+						{
+							"val": "3"
+						},
+						{
+							"val": "4"
+						}
+					],
+					"q_answer": "4",
+					"q_checked": null
+				},
+				{
+					"q_id": "20",
+					"q_name": "Rooms Forecast allows user to configure the forecast data about room with forecast or actuals. Room forecast can be allowed for current year and up to current year +2.",
+					"q_options": [
+						{
+							"val": "True"
+						},
+						{
+							"val": "False"
+						}
+					],
+					"q_answer": "True",
+					"q_checked": null
+				}
+			]
+		}
+	]
+}
